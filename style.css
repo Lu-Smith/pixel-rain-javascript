@@ -14,3 +14,25 @@
   width: 500px;
   height: 651px;
 }
+
+footer {
+  color: #a8a3a3;
+  text-align: center;
+  padding: 20px;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: #c4a8a8;
+}
+
+@media (max-width: 480px) {
+  #canvas1 {
+    width: 310px;
+    height: 441px;
+  }
+}
